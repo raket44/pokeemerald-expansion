@@ -12,7 +12,7 @@ PetalburgCity_OnTransition:
 	end
 
 PetalburgCity_EventScript_MoveGymBoyToWestEntrance::
-	setobjectxyperm LOCALID_GYM_BOY, 5, 11
+	setobjectxyperm LOCALID_GYM_BOY, 5, 41
 	return
 
 PetalburgCity_EventScript_DisableMapNameAndMusic::
@@ -149,11 +149,26 @@ PetalburgCity_Movement_WallyTutorialPlayer:
 	walk_down
 	walk_down
 	walk_down
+	walk_left
+	walk_left
+	walk_left
+walk_down
 	walk_down
 	walk_down
 	walk_down
 	walk_down
 	walk_down
+	walk_down
+	walk_down
+	walk_down
+	walk_down
+	walk_down
+	walk_right
+	walk_right
+	walk_right
+	walk_right
+	walk_right
+	walk_right
 	walk_right
 	walk_right
 	walk_right
@@ -183,11 +198,26 @@ PetalburgCity_Movement_WallyTutorialWally:
 	delay_8
 	walk_down
 	walk_down
+	walk_left
+	walk_left
+	walk_left
 	walk_down
 	walk_down
 	walk_down
 	walk_down
 	walk_down
+	walk_down
+	walk_down
+	walk_down
+	walk_down
+	walk_down
+	walk_down
+	walk_right
+	walk_right
+	walk_right
+	walk_right
+	walk_right
+	walk_right
 	walk_right
 	walk_right
 	walk_right
@@ -500,7 +530,7 @@ PetalburgCity_EventScript_Scott0::
 	lockall
 	addobject LOCALID_PETALBURG_SCOTT
 	setvar VAR_0x8008, 0
-	setobjectxy LOCALID_PETALBURG_SCOTT, 13, 10
+	setobjectxy LOCALID_PETALBURG_SCOTT, 13, 40
 	goto PetalburgCity_EventScript_Scott
 	end
 
@@ -508,7 +538,7 @@ PetalburgCity_EventScript_Scott1::
 	lockall
 	addobject LOCALID_PETALBURG_SCOTT
 	setvar VAR_0x8008, 1
-	setobjectxy LOCALID_PETALBURG_SCOTT, 13, 11
+	setobjectxy LOCALID_PETALBURG_SCOTT, 13, 41
 	goto PetalburgCity_EventScript_Scott
 	end
 
@@ -516,7 +546,7 @@ PetalburgCity_EventScript_Scott2::
 	lockall
 	addobject LOCALID_PETALBURG_SCOTT
 	setvar VAR_0x8008, 2
-	setobjectxy LOCALID_PETALBURG_SCOTT, 13, 12
+	setobjectxy LOCALID_PETALBURG_SCOTT, 13, 42
 	goto PetalburgCity_EventScript_Scott
 	end
 
@@ -524,7 +554,7 @@ PetalburgCity_EventScript_Scott3::
 	lockall
 	addobject LOCALID_PETALBURG_SCOTT
 	setvar VAR_0x8008, 3
-	setobjectxy LOCALID_PETALBURG_SCOTT, 13, 13
+	setobjectxy LOCALID_PETALBURG_SCOTT, 13, 43
 	goto PetalburgCity_EventScript_Scott
 	end
 

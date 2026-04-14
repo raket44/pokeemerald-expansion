@@ -7,7 +7,7 @@
       "width": 36,
       "height": 79,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Petalburg",
+      "secondary_tileset": "gTileset_Rustboro",
       "border_filepath": "data/layouts/PetalburgCity/border.bin",
       "blockdata_filepath": "data/layouts/PetalburgCity/map.bin",
       "layout_version": "emerald"
@@ -9333,16 +9333,6 @@
       "secondary_tileset": "gTileset_Lab",
       "border_filepath": "data/layouts/LMG_Lab/border.bin",
       "blockdata_filepath": "data/layouts/LMG_Lab/map.bin"
-    },
-    {
-      "id": "LAYOUT_DOWNTOWN_PETALBURG",
-      "name": "Downtown_Petalburg_Layout",
-      "width": 30,
-      "height": 30,
-      "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Rustboro",
-      "border_filepath": "data/layouts/Downtown_Petalburg/border.bin",
-      "blockdata_filepath": "data/layouts/Downtown_Petalburg/map.bin"
     }
   ]
 }
