@@ -1626,6 +1626,102 @@
       "y": 4,
       "width": 1,
       "height": 1
+    },
+    {
+      "id": "MAPSEC_OLIVINE_CITY",
+      "name": "OLIVINE CITY"
+    },
+    {
+      "id": "MAPSEC_ROUTE_40",
+      "name": "ROUTE 40"
+    },
+    {
+      "id": "MAPSEC_GOLDENROD_CITY",
+      "name": "GOLDENROD"
+    },
+    {
+      "id": "MAPSEC_ROUTE_34",
+      "name": "Route 34"
+    },
+    {
+      "id": "MAPSEC_ROUTE_39",
+      "name": "ROUTE 39"
+    },
+    {
+      "id": "MAPSEC_ROUTE_32",
+      "name": "Route 32"
+    },
+    {
+      "id": "MAPSEC_VIOLET_CITY",
+      "name": "VIOLET CITY"
+    },
+    {
+      "id": "MAPSEC_ROUTE_36",
+      "name": "Route 36"
+    },
+    {
+      "id": "MAPSEC_ROUTE_37",
+      "name": "ROUTE 37"
+    },
+    {
+      "id": "MAPSEC_ECRUTEAK_CITY",
+      "name": "ECRUTEAK CITY"
+    },
+    {
+      "id": "MAPSEC_ROUTE_38",
+      "name": "ROUTE 38"
+    },
+    {
+      "id": "MAPSEC_ROUTE_41",
+      "name": "ROUTE 41"
+    },
+    {
+      "id": "MAPSEC_CIANWOOD",
+      "name": "CIANWOOD CITY"
+    },
+    {
+      "id": "MAPSEC_ROUTE_42",
+      "name": "ROUTE 42"
+    },
+    {
+      "id": "MAPSEC_MAHOGANY_TOWN",
+      "name": "MAHOGANY TOWN"
+    },
+    {
+      "id": "MAPSEC_ROUTE_44",
+      "name": "ROUTE 44"
+    },
+    {
+      "id": "MAPSEC_ROUTE_43",
+      "name": "ROUTE 43"
+    },
+    {
+      "id": "MAPSEC_LAKE_OF_RAGE",
+      "name": "LAKE OF RAGE"
+    },
+    {
+      "id": "MAPSEC_CHERRRYGROVE",
+      "name": "CHERRYGROVE"
+    },
+    {
+      "id": "MAPSEC_ROUTE_30",
+      "name": "ROUTE 30"
+    },
+    {
+      "id": "MAPSEC_ROUTE_31",
+      "name": "ROUTE 31"
+    },
+    {
+      "id": "MAPSEC_ROUTE_29",
+      "name": "ROUTE 29"
+    },
+    {
+      "id": "MAPSEC_NEW_BARK_TOWN",
+      "name": "NEW BARK TOWN"
+    },
+    {
+      "id": "MAPSEC_COASTAL_2",
+      "name": "COASTAL RT 2"
     }
   ]
 }

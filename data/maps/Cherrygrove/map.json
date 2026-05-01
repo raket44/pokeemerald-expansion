@@ -1,0 +1,49 @@
+{
+  "id": "MAP_CHERRYGROVE",
+  "name": "Cherrygrove",
+  "layout": "LAYOUT_CHERRYGROVE_CITY",
+  "music": "MUS_DEWFORD",
+  "region_map_section": "MAPSEC_CHERRRYGROVE",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_CITY",
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_ROUTE32_B",
+      "offset": -47,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_ROUTE_30",
+      "offset": 10,
+      "direction": "up"
+    },
+    {
+      "map": "MAP_ROUTE_29",
+      "offset": 0,
+      "direction": "right"
+    },
+    {
+      "map": "MAP_COASTAL_ROUTE2",
+      "offset": 58,
+      "direction": "right"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [
+    {
+      "x": 41,
+      "y": 4,
+      "elevation": 0,
+      "dest_map": "MAP_CHERRYGROVE_POKE_CENTER",
+      "dest_warp_id": "0"
+    }
+  ],
+  "coord_events": [],
+  "bg_events": []
+}

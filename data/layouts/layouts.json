@@ -664,10 +664,10 @@
     {
       "id": "LAYOUT_POKEMON_CENTER_1F",
       "name": "PokemonCenter_1F_Layout",
-      "width": 14,
-      "height": 9,
-      "primary_tileset": "gTileset_Building",
-      "secondary_tileset": "gTileset_PokemonCenter",
+      "width": 16,
+      "height": 10,
+      "primary_tileset": "gTileset_BuildingJohto",
+      "secondary_tileset": "gTileset_PokemonCenterJohto",
       "border_filepath": "data/layouts/PokemonCenter_1F/border.bin",
       "blockdata_filepath": "data/layouts/PokemonCenter_1F/map.bin",
       "layout_version": "emerald"
@@ -675,10 +675,10 @@
     {
       "id": "LAYOUT_POKEMON_CENTER_2F",
       "name": "PokemonCenter_2F_Layout",
-      "width": 14,
+      "width": 15,
       "height": 10,
-      "primary_tileset": "gTileset_Building",
-      "secondary_tileset": "gTileset_PokemonCenter",
+      "primary_tileset": "gTileset_BuildingJohto",
+      "secondary_tileset": "gTileset_PokemonCenterJohto",
       "border_filepath": "data/layouts/PokemonCenter_2F/border.bin",
       "blockdata_filepath": "data/layouts/PokemonCenter_2F/map.bin",
       "layout_version": "emerald"
@@ -9333,6 +9333,316 @@
       "secondary_tileset": "gTileset_Lab",
       "border_filepath": "data/layouts/LMG_Lab/border.bin",
       "blockdata_filepath": "data/layouts/LMG_Lab/map.bin"
+    },
+    {
+      "id": "LAYOUT_OLIVINE_CITY",
+      "name": "Olivine_City",
+      "width": 56,
+      "height": 50,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_Olivine",
+      "border_filepath": "data/layouts/Olivine_City/border.bin",
+      "blockdata_filepath": "data/layouts/Olivine_City/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE40",
+      "name": "Route40",
+      "width": 56,
+      "height": 56,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_OlivinePort",
+      "border_filepath": "data/layouts/Route40/border.bin",
+      "blockdata_filepath": "data/layouts/Route40/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE40_1",
+      "name": "Route40_1",
+      "width": 70,
+      "height": 50,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_Route40",
+      "border_filepath": "data/layouts/Route40_1/border.bin",
+      "blockdata_filepath": "data/layouts/Route40_1/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_40_1",
+      "name": "Route_40_1",
+      "width": 56,
+      "height": 56,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_Route40",
+      "border_filepath": "data/layouts/Route_40_1/border.bin",
+      "blockdata_filepath": "data/layouts/Route_40_1/map.bin"
+    },
+    {
+      "id": "LAYOUT_GOLDENROD_CITY",
+      "name": "GoldenrodCity",
+      "width": 76,
+      "height": 54,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_Goldenrod",
+      "border_filepath": "data/layouts/GoldenrodCity/border.bin",
+      "blockdata_filepath": "data/layouts/GoldenrodCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_OCEAN1",
+      "name": "Ocean1",
+      "width": 60,
+      "height": 120,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_Route40",
+      "border_filepath": "data/layouts/Ocean1/border.bin",
+      "blockdata_filepath": "data/layouts/Ocean1/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE34",
+      "name": "ROUTE34",
+      "width": 66,
+      "height": 36,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_ROUTE34",
+      "border_filepath": "data/layouts/ROUTE34/border.bin",
+      "blockdata_filepath": "data/layouts/ROUTE34/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE39",
+      "name": "ROUTE39",
+      "width": 28,
+      "height": 46,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_Route40",
+      "border_filepath": "data/layouts/ROUTE39/border.bin",
+      "blockdata_filepath": "data/layouts/ROUTE39/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_34",
+      "name": "Route_34",
+      "width": 54,
+      "height": 112,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_Goldenrod",
+      "border_filepath": "data/layouts/Route_34/border.bin",
+      "blockdata_filepath": "data/layouts/Route_34/map.bin"
+    },
+    {
+      "id": "LAYOUT_VIOLET_C",
+      "name": "VioletC",
+      "width": 54,
+      "height": 42,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_VioletCity",
+      "border_filepath": "data/layouts/VioletC/border.bin",
+      "blockdata_filepath": "data/layouts/VioletC/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE32",
+      "name": "Route32",
+      "width": 38,
+      "height": 120,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_Route40",
+      "border_filepath": "data/layouts/Route32/border.bin",
+      "blockdata_filepath": "data/layouts/Route32/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE36",
+      "name": "Route36",
+      "width": 64,
+      "height": 26,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_VioletCity",
+      "border_filepath": "data/layouts/Route36/border.bin",
+      "blockdata_filepath": "data/layouts/Route36/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE37",
+      "name": "Route37",
+      "width": 28,
+      "height": 30,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_Route37",
+      "border_filepath": "data/layouts/Route37/border.bin",
+      "blockdata_filepath": "data/layouts/Route37/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE39B",
+      "name": "Route39b",
+      "width": 54,
+      "height": 44,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_Route39",
+      "border_filepath": "data/layouts/Route39b/border.bin",
+      "blockdata_filepath": "data/layouts/Route39b/map.bin"
+    },
+    {
+      "id": "LAYOUT_ECRUTEAK_CITY",
+      "name": "ECRUTEAK_CITY",
+      "width": 68,
+      "height": 46,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_VioletCity",
+      "border_filepath": "data/layouts/ECRUTEAK_CITY/border.bin",
+      "blockdata_filepath": "data/layouts/ECRUTEAK_CITY/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE41",
+      "name": "ROUTE41",
+      "width": 70,
+      "height": 56,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_ROUTE34",
+      "border_filepath": "data/layouts/ROUTE41/border.bin",
+      "blockdata_filepath": "data/layouts/ROUTE41/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE38",
+      "name": "Route38",
+      "width": 52,
+      "height": 30,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_Route37",
+      "border_filepath": "data/layouts/Route38/border.bin",
+      "blockdata_filepath": "data/layouts/Route38/map.bin"
+    },
+    {
+      "id": "LAYOUT_CIANWOOD_CITY",
+      "name": "CianwoodCity",
+      "width": 48,
+      "height": 76,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_ROUTE34",
+      "border_filepath": "data/layouts/CianwoodCity/border.bin",
+      "blockdata_filepath": "data/layouts/CianwoodCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_MAHOGANY_TOWN",
+      "name": "MAHOGANY_TOWN",
+      "width": 36,
+      "height": 40,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_New_Bark",
+      "border_filepath": "data/layouts/MAHOGANY_TOWN/border.bin",
+      "blockdata_filepath": "data/layouts/MAHOGANY_TOWN/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE42",
+      "name": "ROUTE42",
+      "width": 90,
+      "height": 36,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_Route40",
+      "border_filepath": "data/layouts/ROUTE42/border.bin",
+      "blockdata_filepath": "data/layouts/ROUTE42/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE44",
+      "name": "ROUTE44",
+      "width": 90,
+      "height": 44,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_New_Bark",
+      "border_filepath": "data/layouts/ROUTE44/border.bin",
+      "blockdata_filepath": "data/layouts/ROUTE44/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE43",
+      "name": "Route43",
+      "width": 32,
+      "height": 86,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_Cherrygrove",
+      "border_filepath": "data/layouts/Route43/border.bin",
+      "blockdata_filepath": "data/layouts/Route43/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE31",
+      "name": "ROUTE31",
+      "width": 58,
+      "height": 23,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_Route31",
+      "border_filepath": "data/layouts/ROUTE31/border.bin",
+      "blockdata_filepath": "data/layouts/ROUTE31/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE32B",
+      "name": "Route32b",
+      "width": 28,
+      "height": 139,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_VioletCity",
+      "border_filepath": "data/layouts/Route32b/border.bin",
+      "blockdata_filepath": "data/layouts/Route32b/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE30",
+      "name": "ROUTE30",
+      "width": 38,
+      "height": 62,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_Cherrygrove",
+      "border_filepath": "data/layouts/ROUTE30/border.bin",
+      "blockdata_filepath": "data/layouts/ROUTE30/map.bin"
+    },
+    {
+      "id": "LAYOUT_CHERRYGROVE_CITY",
+      "name": "CherrygroveCity",
+      "width": 56,
+      "height": 92,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_Cherrygrove",
+      "border_filepath": "data/layouts/CherrygroveCity/border.bin",
+      "blockdata_filepath": "data/layouts/CherrygroveCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_LAKE_RAGE",
+      "name": "LakeRage",
+      "width": 68,
+      "height": 56,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_ROUTE34",
+      "border_filepath": "data/layouts/LakeRage/border.bin",
+      "blockdata_filepath": "data/layouts/LakeRage/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEW_BARK",
+      "name": "NewBark",
+      "width": 28,
+      "height": 22,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_New_Bark",
+      "border_filepath": "data/layouts/NewBark/border.bin",
+      "blockdata_filepath": "data/layouts/NewBark/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE100",
+      "name": "ROUTE100",
+      "width": 104,
+      "height": 34,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_New_Bark",
+      "border_filepath": "data/layouts/ROUTE100/border.bin",
+      "blockdata_filepath": "data/layouts/ROUTE100/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE29",
+      "name": "ROUTE29",
+      "width": 76,
+      "height": 20,
+      "primary_tileset": "gTileset_GeneralJohto",
+      "secondary_tileset": "gTileset_New_Bark",
+      "border_filepath": "data/layouts/ROUTE29/border.bin",
+      "blockdata_filepath": "data/layouts/ROUTE29/map.bin"
+    },
+    {
+      "id": "LAYOUT_CHERRYGROVE_PC",
+      "name": "CherrygrovePC",
+      "width": 16,
+      "height": 10,
+      "primary_tileset": "gTileset_BuildingJohto",
+      "secondary_tileset": "gTileset_PokemonCenterJohto",
+      "border_filepath": "data/layouts/CherrygrovePC/border.bin",
+      "blockdata_filepath": "data/layouts/CherrygrovePC/map.bin"
     }
   ]
 }

@@ -1739,3 +1739,63 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/scripts/apricorn_tree.inc"
 
 	.include "data/maps/LMG_Lab/scripts.inc"
+
+	.include "data/maps/Olivine/scripts.inc"
+
+	.include "data/maps/Route_40/scripts.inc"
+
+	.include "data/maps/Ocean_1/scripts.inc"
+
+	.include "data/maps/OlivinePort/scripts.inc"
+
+	.include "data/maps/Goldenrod/scripts.inc"
+
+	.include "data/maps/Route34/scripts.inc"
+
+	.include "data/maps/ROUTE_39/scripts.inc"
+
+	.include "data/maps/Route_34_1/scripts.inc"
+
+	.include "data/maps/Route_32/scripts.inc"
+
+	.include "data/maps/Route_36/scripts.inc"
+
+	.include "data/maps/Violet_City/scripts.inc"
+
+	.include "data/maps/Route_37/scripts.inc"
+
+	.include "data/maps/Route_38/scripts.inc"
+
+	.include "data/maps/Cianwood/scripts.inc"
+
+	.include "data/maps/ROUTE_41/scripts.inc"
+
+	.include "data/maps/ECRUTEAK/scripts.inc"
+
+	.include "data/maps/Route39_b/scripts.inc"
+
+	.include "data/maps/ROUTE_42/scripts.inc"
+
+	.include "data/maps/Mahogany/scripts.inc"
+
+	.include "data/maps/ROUTE_44/scripts.inc"
+
+	.include "data/maps/ROUTE_30/scripts.inc"
+
+	.include "data/maps/LakeOfRage/scripts.inc"
+
+	.include "data/maps/Route32_b/scripts.inc"
+
+	.include "data/maps/Cherrygrove/scripts.inc"
+
+	.include "data/maps/Route_43/scripts.inc"
+
+	.include "data/maps/ROUTE_29/scripts.inc"
+
+	.include "data/maps/ROUTE_31/scripts.inc"
+
+	.include "data/maps/NewBarkTown/scripts.inc"
+
+	.include "data/maps/CoastalRoute2/scripts.inc"
+
+	.include "data/maps/CherrygrovePokeCenter/scripts.inc"

@@ -74,7 +74,10 @@
     "gMapGroup_IndoorFiveIslandRoute_Frlg",
     "gMapGroup_IndoorTwoIslandRoute_Frlg",
     "gMapGroup_IndoorSixIslandRoute_Frlg",
-    "gMapGroup_IndoorSevenIslandRoute_Frlg"
+    "gMapGroup_IndoorSevenIslandRoute_Frlg",
+    "gMapGroup_TownsAndRoutes_Johto",
+    "gMapGroup_IndoorNewBark",
+    "gMapGroup_IndoorCherrygrove"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",
@@ -1161,5 +1164,40 @@
   ],
   "gMapGroup_IndoorSevenIslandRoute_Frlg": [
     "SevenIsland_SevaultCanyon_House_Frlg"
+  ],
+  "gMapGroup_TownsAndRoutes_Johto": [
+    "Olivine",
+    "Route_40",
+    "OlivinePort",
+    "Ocean_1",
+    "Goldenrod",
+    "Route34",
+    "ROUTE_39",
+    "Route_34_1",
+    "Route_32",
+    "Violet_City",
+    "Route_36",
+    "Route_37",
+    "ECRUTEAK",
+    "Route_38",
+    "ROUTE_41",
+    "Cianwood",
+    "Route39_b",
+    "ROUTE_42",
+    "Mahogany",
+    "ROUTE_44",
+    "Route_43",
+    "LakeOfRage",
+    "Route32_b",
+    "Cherrygrove",
+    "ROUTE_30",
+    "ROUTE_31",
+    "ROUTE_29",
+    "NewBarkTown",
+    "CoastalRoute2"
+  ],
+  "gMapGroup_IndoorNewBark": [],
+  "gMapGroup_IndoorCherrygrove": [
+    "CherrygrovePokeCenter"
   ]
 }
