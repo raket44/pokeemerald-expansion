@@ -103,9 +103,9 @@
     {
       "id": "LAYOUT_LITTLEROOT_TOWN",
       "name": "LittlerootTown_Layout",
-      "width": 42,
-      "height": 20,
-      "primary_tileset": "gTileset_General",
+      "width": 28,
+      "height": 25,
+      "primary_tileset": "gTileset_GeneralHoenn",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/LittlerootTown/border.bin",
       "blockdata_filepath": "data/layouts/LittlerootTown/map.bin",
