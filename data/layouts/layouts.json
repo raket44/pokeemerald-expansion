@@ -6,7 +6,7 @@
       "name": "PetalburgCity_Layout",
       "width": 36,
       "height": 79,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralHoenn",
       "secondary_tileset": "gTileset_Rustboro",
       "border_filepath": "data/layouts/PetalburgCity/border.bin",
       "blockdata_filepath": "data/layouts/PetalburgCity/map.bin",

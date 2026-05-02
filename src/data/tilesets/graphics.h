@@ -3314,3 +3314,22 @@ const u16 gTilesetPalettes_PokemonCenterJohto[][16] =
 };
 
 const u32 gTilesetTiles_PokemonCenterJohto[] = INCBIN_U32("data/tilesets/secondary/pokemon_center_johto/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_GeneralHoenn[][16] =
+{
+    INCBIN_U16("data/tilesets/primary/general_hoenn/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/primary/general_hoenn/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/primary/general_hoenn/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/primary/general_hoenn/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/primary/general_hoenn/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/primary/general_hoenn/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/primary/general_hoenn/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/primary/general_hoenn/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/primary/general_hoenn/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/primary/general_hoenn/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/primary/general_hoenn/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/primary/general_hoenn/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/primary/general_hoenn/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_GeneralHoenn[] = INCBIN_U32("data/tilesets/primary/general_hoenn/tiles.4bpp.lz");

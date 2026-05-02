@@ -1695,3 +1695,14 @@ const struct Tileset gTileset_PokemonCenterJohto =
     .metatileAttributes = gMetatileAttributes_PokemonCenterJohto,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_GeneralHoenn =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_GeneralHoenn,
+    .palettes = gTilesetPalettes_GeneralHoenn,
+    .metatiles = gMetatiles_GeneralHoenn,
+    .metatileAttributes = gMetatileAttributes_GeneralHoenn,
+    .callback = NULL,
+};
