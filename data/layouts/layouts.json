@@ -7,7 +7,7 @@
       "width": 36,
       "height": 79,
       "primary_tileset": "gTileset_GeneralHoenn",
-      "secondary_tileset": "gTileset_Rustboro",
+      "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/PetalburgCity/border.bin",
       "blockdata_filepath": "data/layouts/PetalburgCity/map.bin",
       "layout_version": "emerald"
@@ -193,7 +193,7 @@
       "name": "Route102_Layout",
       "width": 50,
       "height": 20,
-      "primary_tileset": "gTileset_General",
+      "primary_tileset": "gTileset_GeneralHoenn",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route102/border.bin",
       "blockdata_filepath": "data/layouts/Route102/map.bin",
@@ -9643,6 +9643,26 @@
       "secondary_tileset": "gTileset_PokemonCenterJohto",
       "border_filepath": "data/layouts/CherrygrovePC/border.bin",
       "blockdata_filepath": "data/layouts/CherrygrovePC/map.bin"
+    },
+    {
+      "id": "LAYOUT_GOLD1F",
+      "name": "GOLD1F",
+      "width": 17,
+      "height": 14,
+      "primary_tileset": "gTileset_BuildingJohto",
+      "secondary_tileset": "gTileset_GenericBuilding3",
+      "border_filepath": "data/layouts/GOLD1F/border.bin",
+      "blockdata_filepath": "data/layouts/GOLD1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_GOLD2F",
+      "name": "GOLD2F",
+      "width": 11,
+      "height": 9,
+      "primary_tileset": "gTileset_BuildingJohto",
+      "secondary_tileset": "gTileset_GenericBuilding3",
+      "border_filepath": "data/layouts/GOLD2F/border.bin",
+      "blockdata_filepath": "data/layouts/GOLD2F/map.bin"
     }
   ]
 }

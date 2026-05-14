@@ -1706,3 +1706,14 @@ const struct Tileset gTileset_GeneralHoenn =
     .metatileAttributes = gMetatileAttributes_GeneralHoenn,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_GenericBuilding3 =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_GenericBuilding3,
+    .palettes = gTilesetPalettes_GenericBuilding3,
+    .metatiles = gMetatiles_GenericBuilding3,
+    .metatileAttributes = gMetatileAttributes_GenericBuilding3,
+    .callback = NULL,
+};

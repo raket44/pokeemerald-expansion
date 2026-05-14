@@ -1799,3 +1799,7 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/CoastalRoute2/scripts.inc"
 
 	.include "data/maps/CherrygrovePokeCenter/scripts.inc"
+
+	.include "data/maps/Gold_1F/scripts.inc"
+
+	.include "data/maps/Gold_2F/scripts.inc"

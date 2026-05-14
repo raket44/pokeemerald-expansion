@@ -453,3 +453,6 @@ const u16 gMetatileAttributes_PokemonCenterJohto[] = INCBIN_U16("data/tilesets/s
 
 const u16 gMetatiles_GeneralHoenn[] = INCBIN_U16("data/tilesets/primary/general_hoenn/metatiles.bin");
 const u16 gMetatileAttributes_GeneralHoenn[] = INCBIN_U16("data/tilesets/primary/general_hoenn/metatile_attributes.bin");
+
+const u16 gMetatiles_GenericBuilding3[] = INCBIN_U16("data/tilesets/secondary/generic_building_3/metatiles.bin");
+const u16 gMetatileAttributes_GenericBuilding3[] = INCBIN_U16("data/tilesets/secondary/generic_building_3/metatile_attributes.bin");

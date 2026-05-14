@@ -1196,7 +1196,10 @@
     "NewBarkTown",
     "CoastalRoute2"
   ],
-  "gMapGroup_IndoorNewBark": [],
+  "gMapGroup_IndoorNewBark": [
+    "Gold_1F",
+    "Gold_2F"
+  ],
   "gMapGroup_IndoorCherrygrove": [
     "CherrygrovePokeCenter"
   ]
