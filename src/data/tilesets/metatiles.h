@@ -453,3 +453,12 @@ const u16 gMetatileAttributes_PokemonCenterJohto[] = INCBIN_U16("data/tilesets/s
 
 const u16 gMetatiles_GeneralHoenn[] = INCBIN_U16("data/tilesets/primary/general_hoenn/metatiles.bin");
 const u16 gMetatileAttributes_GeneralHoenn[] = INCBIN_U16("data/tilesets/primary/general_hoenn/metatile_attributes.bin");
+
+const u16 gMetatiles_General_Beach[] = INCBIN_U16("data/tilesets/primary/general_beach/metatiles.bin");
+const u16 gMetatileAttributes_General_Beach[] = INCBIN_U16("data/tilesets/primary/general_beach/metatile_attributes.bin");
+
+const u16 gMetatiles_Rustboro_Revamp[] = INCBIN_U16("data/tilesets/secondary/rustboro_revamp/metatiles.bin");
+const u16 gMetatileAttributes_Rustboro_Revamp[] = INCBIN_U16("data/tilesets/secondary/rustboro_revamp/metatile_attributes.bin");
+
+const u16 gMetatiles_General_Slateport[] = INCBIN_U16("data/tilesets/primary/general_slateport/metatiles.bin");
+const u16 gMetatileAttributes_General_Slateport[] = INCBIN_U16("data/tilesets/primary/general_slateport/metatile_attributes.bin");

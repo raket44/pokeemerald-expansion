@@ -1706,3 +1706,36 @@ const struct Tileset gTileset_GeneralHoenn =
     .metatileAttributes = gMetatileAttributes_GeneralHoenn,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_General_Beach =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_General_Beach,
+    .palettes = gTilesetPalettes_General_Beach,
+    .metatiles = gMetatiles_General_Beach,
+    .metatileAttributes = gMetatileAttributes_General_Beach,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_Rustboro_Revamp =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_Rustboro_Revamp,
+    .palettes = gTilesetPalettes_Rustboro_Revamp,
+    .metatiles = gMetatiles_Rustboro_Revamp,
+    .metatileAttributes = gMetatileAttributes_Rustboro_Revamp,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_General_Slateport =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_General_Slateport,
+    .palettes = gTilesetPalettes_General_Slateport,
+    .metatiles = gMetatiles_General_Slateport,
+    .metatileAttributes = gMetatileAttributes_General_Slateport,
+    .callback = NULL,
+};
