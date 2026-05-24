@@ -462,3 +462,9 @@ const u16 gMetatileAttributes_Rustboro_Revamp[] = INCBIN_U16("data/tilesets/seco
 
 const u16 gMetatiles_General_Slateport[] = INCBIN_U16("data/tilesets/primary/general_slateport/metatiles.bin");
 const u16 gMetatileAttributes_General_Slateport[] = INCBIN_U16("data/tilesets/primary/general_slateport/metatile_attributes.bin");
+
+const u16 gMetatiles_Desert_Tileset[] = INCBIN_U16("data/tilesets/secondary/desert_tileset/metatiles.bin");
+const u16 gMetatileAttributes_Desert_Tileset[] = INCBIN_U16("data/tilesets/secondary/desert_tileset/metatile_attributes.bin");
+
+const u16 gMetatiles_Route111_Primary[] = INCBIN_U16("data/tilesets/primary/route_111_primary/metatiles.bin");
+const u16 gMetatileAttributes_Route111_Primary[] = INCBIN_U16("data/tilesets/primary/route_111_primary/metatile_attributes.bin");

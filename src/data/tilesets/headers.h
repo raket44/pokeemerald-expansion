@@ -1739,3 +1739,25 @@ const struct Tileset gTileset_General_Slateport =
     .metatileAttributes = gMetatileAttributes_General_Slateport,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_Desert_Tileset =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_Desert_Tileset,
+    .palettes = gTilesetPalettes_Desert_Tileset,
+    .metatiles = gMetatiles_Desert_Tileset,
+    .metatileAttributes = gMetatileAttributes_Desert_Tileset,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_Route111_Primary =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_Route111_Primary,
+    .palettes = gTilesetPalettes_Route111_Primary,
+    .metatiles = gMetatiles_Route111_Primary,
+    .metatileAttributes = gMetatileAttributes_Route111_Primary,
+    .callback = NULL,
+};

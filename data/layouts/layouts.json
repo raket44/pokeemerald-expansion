@@ -125,8 +125,8 @@
     {
       "id": "LAYOUT_DEWFORD_TOWN",
       "name": "DewfordTown_Layout",
-      "width": 25,
-      "height": 25,
+      "width": 30,
+      "height": 30,
       "primary_tileset": "gTileset_General_Beach",
       "secondary_tileset": "gTileset_Dewford",
       "border_filepath": "data/layouts/DewfordTown/border.bin",
@@ -292,8 +292,8 @@
       "name": "Route111_Layout",
       "width": 40,
       "height": 140,
-      "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Mauville",
+      "primary_tileset": "gTileset_Route111_Primary",
+      "secondary_tileset": "gTileset_Desert_Tileset",
       "border_filepath": "data/layouts/Route111/border.bin",
       "blockdata_filepath": "data/layouts/Route111/map.bin",
       "layout_version": "emerald"
