@@ -1707,13 +1707,57 @@ const struct Tileset gTileset_GeneralHoenn =
     .callback = NULL,
 };
 
-const struct Tileset gTileset_GenericBuilding3 =
+const struct Tileset gTileset_General_Beach =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_General_Beach,
+    .palettes = gTilesetPalettes_General_Beach,
+    .metatiles = gMetatiles_General_Beach,
+    .metatileAttributes = gMetatileAttributes_General_Beach,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_Rustboro_Revamp =
 {
     .isCompressed = TRUE,
     .isSecondary = TRUE,
-    .tiles = gTilesetTiles_GenericBuilding3,
-    .palettes = gTilesetPalettes_GenericBuilding3,
-    .metatiles = gMetatiles_GenericBuilding3,
-    .metatileAttributes = gMetatileAttributes_GenericBuilding3,
+    .tiles = gTilesetTiles_Rustboro_Revamp,
+    .palettes = gTilesetPalettes_Rustboro_Revamp,
+    .metatiles = gMetatiles_Rustboro_Revamp,
+    .metatileAttributes = gMetatileAttributes_Rustboro_Revamp,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_General_Slateport =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_General_Slateport,
+    .palettes = gTilesetPalettes_General_Slateport,
+    .metatiles = gMetatiles_General_Slateport,
+    .metatileAttributes = gMetatileAttributes_General_Slateport,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_Desert_Tileset =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_Desert_Tileset,
+    .palettes = gTilesetPalettes_Desert_Tileset,
+    .metatiles = gMetatiles_Desert_Tileset,
+    .metatileAttributes = gMetatileAttributes_Desert_Tileset,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_Route111_Primary =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_Route111_Primary,
+    .palettes = gTilesetPalettes_Route111_Primary,
+    .metatiles = gMetatiles_Route111_Primary,
+    .metatileAttributes = gMetatileAttributes_Route111_Primary,
     .callback = NULL,
 };
