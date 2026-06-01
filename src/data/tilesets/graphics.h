@@ -3428,3 +3428,41 @@ const u16 gTilesetPalettes_Route111_Primary[][16] =
 };
 
 const u32 gTilesetTiles_Route111_Primary[] = INCBIN_U32("data/tilesets/primary/route_111_primary/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_New_Rustboro_Primary[][16] =
+{
+    INCBIN_U16("data/tilesets/primary/new_rustboro_primary/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/primary/new_rustboro_primary/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/primary/new_rustboro_primary/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/primary/new_rustboro_primary/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/primary/new_rustboro_primary/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/primary/new_rustboro_primary/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/primary/new_rustboro_primary/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/primary/new_rustboro_primary/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/primary/new_rustboro_primary/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/primary/new_rustboro_primary/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/primary/new_rustboro_primary/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/primary/new_rustboro_primary/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/primary/new_rustboro_primary/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_New_Rustboro_Primary[] = INCBIN_U32("data/tilesets/primary/new_rustboro_primary/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_New_Rustborro_Secondary[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/new_rustborro_secondary/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_rustborro_secondary/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_rustborro_secondary/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_rustborro_secondary/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_rustborro_secondary/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_rustborro_secondary/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_rustborro_secondary/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_rustborro_secondary/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_rustborro_secondary/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_rustborro_secondary/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_rustborro_secondary/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_rustborro_secondary/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/new_rustborro_secondary/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_New_Rustborro_Secondary[] = INCBIN_U32("data/tilesets/secondary/new_rustborro_secondary/tiles.4bpp.lz");

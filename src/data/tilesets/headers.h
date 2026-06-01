@@ -1761,3 +1761,25 @@ const struct Tileset gTileset_Route111_Primary =
     .metatileAttributes = gMetatileAttributes_Route111_Primary,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_New_Rustboro_Primary =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_New_Rustboro_Primary,
+    .palettes = gTilesetPalettes_New_Rustboro_Primary,
+    .metatiles = gMetatiles_New_Rustboro_Primary,
+    .metatileAttributes = gMetatileAttributes_New_Rustboro_Primary,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_New_Rustborro_Secondary =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_New_Rustborro_Secondary,
+    .palettes = gTilesetPalettes_New_Rustborro_Secondary,
+    .metatiles = gMetatiles_New_Rustborro_Secondary,
+    .metatileAttributes = gMetatileAttributes_New_Rustborro_Secondary,
+    .callback = NULL,
+};
